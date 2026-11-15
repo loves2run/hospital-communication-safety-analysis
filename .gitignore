@@ -1,0 +1,5 @@
+#Raw CMS source files (large; see README for source links and download date)
+data/data_raw/
+
+#macOS
+.DS_Store
